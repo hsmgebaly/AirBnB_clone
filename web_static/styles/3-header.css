@@ -1,16 +1,9 @@
-header{
-  background-color: white;
+header {
+  background-color: #ffff;
   height: 70px;
   width: 100%;
-  border bottom: 1px solid #CCCCCC;
-  display: flex;
-  align-items: center;
+  border-bottom: 1px solid #cccccc;
+  background-image: url(../images/logo.png);
+  background-repeat: no-repeat;
+  background-position-x: 20px;
 }
-
-header .logo{
-  height: 60px;
-  width: 142px;
-  background: url("../images/logo.png") no-repeat center;
-  padding-left: 20px;
-}
-
